@@ -56,18 +56,18 @@ global.ppulsa2 = '08979530736'
 global.psaweria = 'https://saweria.co/BaraXDz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
-global.namebot = 'BotzzMee-Md【﻿ＸｘＹｚ】'
-global.nameown = 'BaraXD'
+global.nomorbot = '62895804749060'
+global.nomorown = '6287829418915'
+global.namebot = 'hxicon bot【﻿ＸｘＹｚ】'
+global.nameown = 'yzwony'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee-Md【﻿ＸｘＹｚ】', true]
+  ['6287829418915'],
+  ['6287829418915'],
+  ['6287829418915'],
+  ['6287829418915', 'hxicon-Md【﻿ＸｘＹｚ】', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -112,8 +112,8 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'BotzzMee-Md【﻿ＸｘＹｚ】' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ BotzzMee-Md¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm = 'hxicon-Md【﻿ＸｘＹｚ】' //Main Watermark
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ hxicon-Md¨˜ˆ”°⍣~•⊹٭„¸'
 global.wm3 = '☘︎ ʙᴏᴛᴢᴢᴍᴇᴇ-MD'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
